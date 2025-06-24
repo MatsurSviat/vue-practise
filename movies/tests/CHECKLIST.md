@@ -1,0 +1,17 @@
+- A button for deleting a movie is present on each movie.
+- When you click the delete button, that movie is removed from the list.
+- A button for editing a movie is present on each movie.
+- When you click the edit button, that form shows up.
+- The form is prefilled with the movie data.
+- The form submit buttons text is `Save` when you edit.
+- The form validates the correct data.
+- The form is cleared out and hidden after saving a valid movie. 
+- Is the movie is updated on the list once the form is submitted and valid.
+- Clicking the cancel button hides the form.
+- Clicking the cancel button clears the form.
+- Clicking the cancel button clears all errors.
+- Clicking the cancel button does not update the movie.
+- An average rate of the movies is shown on screen.
+- The total amount of the movies is shown on screen.
+- There is a button present to clear out all the ratings.
+- Pressing that button removes the rate of each movie.
