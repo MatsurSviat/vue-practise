@@ -1,0 +1,2 @@
+- The toggle works with v-model
+- The v-model binary modifier correctly transforms the value to 1/0 instead of true/false
